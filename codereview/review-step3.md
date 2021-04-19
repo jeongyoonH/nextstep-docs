@@ -1,5 +1,5 @@
 ## 온라인 코드리뷰 요청 3단계
-코드리뷰 3단계는 리뷰 요청을 보낸 후 pull request가 next-step으로 통합(merge)된 이후의 과정을 다룬다.
+코드 리뷰 3단계는 리뷰 요청을 보낸 후 pull request가 next-step으로 통합(merge)된 이후의 과정을 다룬다.
 
 ---
 1. merge를 완료했다는 통보를 받으면 브랜치 변경 및 작업 브랜치 삭제(option)한다.
